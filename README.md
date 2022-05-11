@@ -2,8 +2,8 @@
 
 #### Запуск:
 
-```
-$ python3 type_training.py
+```bash
+python3 type_training.py
 ```
 
 На выбор пользователю даётся три режима:
